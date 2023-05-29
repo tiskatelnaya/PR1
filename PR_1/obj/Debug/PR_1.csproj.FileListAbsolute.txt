@@ -1,0 +1,11 @@
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\bin\Debug\PR_1.exe.config
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\bin\Debug\PR_1.exe
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\bin\Debug\PR_1.pdb
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.Properties.Resources.resources
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.csproj.GenerateResource.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.exe
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.pdb
+C:\Users\Валерия\Desktop\ПучРыс\PR1_git\PR_1\obj\Debug\PR_1.Form1.resources
